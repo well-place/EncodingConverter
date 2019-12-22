@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EncodingConverter": {
+      "commandName": "Project",
+      "commandLineArgs": "-i C:\\develop\\EncodingConverter\\Test\\before_convert\\ -f \"txt,html,php,js\" -e \"utf-8\""
+    }
+  }
+}
